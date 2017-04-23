@@ -1,0 +1,23 @@
+{
+  "name": "hyper-active",
+  "version": "1.0.0",
+  "description": "Hyper term plugin",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffdowdle/hyper-active.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffdowdle/hyper-active/issues"
+  },
+  "homepage": "https://github.com/jeffdowdle/hyper-active#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
+}
